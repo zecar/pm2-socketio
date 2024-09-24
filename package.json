@@ -6,15 +6,11 @@
     "node": ">=12.0.0"
   },
   "directories": {
-    "bin": "./bin",
-    "lib": "./lib",
-    "example": "./examples"
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   },
-  "author": {
-    "name": "Strzelewicz Alexandre",
-    "email": "alexandre@pm2.io",
-    "url": "https://pm2.io"
-  },
+  "author": "Strzelewicz Alexandre <alexandre@pm2.io> (https://pm2.io)",
   "maintainers": [
     {
       "name": "Alexandre Strzelewicz",
