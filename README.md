@@ -1,3 +1,8 @@
+# This is a fork that allows socket.io cluster mode
+https://socket.io/docs/v4/pm2/
+
+Created this fork because their version of pm2 is not up-to-date
+
 <div align="center">
  <br/>
 <picture>
